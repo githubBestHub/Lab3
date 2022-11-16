@@ -212,7 +212,7 @@ function instructions(){
         list.appendChild(inst5);
 
         let inst6 = document.createElement("li");
-        inst6.innerHTML = "If there are 5 living cells around an empty space, it comes to life as a green cell";
+        inst6.innerHTML = "If there are 6 living cells around an empty space, it comes to life as a green cell";
         list.appendChild(inst6);
 
         let inst7 = document.createElement("li");
