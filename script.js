@@ -111,7 +111,7 @@ function step(){
             neighbors = getNeighbors(i);
             if (neighbors == 3){
                 yellows.push(i);
-            } if (neighbors == 6){d
+            } if (neighbors == 6){
                 greens.push(i);
             }
         }
