@@ -3,3 +3,17 @@
     background: #DDDDDD;
     border-color: #FFFFFF;
 }
+p, li {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: 'Source Sans Pro', 'Regular 400';
+}
+h1 {
+    font-family: 'Peralta', 'Regular 400';
+}
+html{
+    background-color: #effaf6
+}
+body{
+    padding-left: 25px;
+}
